@@ -3,6 +3,8 @@ Projecto de Inteligência Artificial 2021 - Tetris
 
 ## NOTES
 
+venv folder is zipped so I could push to the repository.
+
 Done by Alexandre Pinto (98401) and Pedro Jorge (98418)
 
 Percentage of work:\
